@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/regina/Desktop/CPP_08/ex01/Span.cpp
+Span.hpp
+/Users/regina/Desktop/CPP_08/ex01/Span.hpp
+vector
+-
+
+/Users/regina/Desktop/CPP_08/ex01/Span.hpp
+iostream
+-
+vector
+-
+
